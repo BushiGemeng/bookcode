@@ -1,0 +1,10 @@
+D:\测绘项目\Part03_09\Part03_09\bin\Debug\Part03_09.exe.config
+D:\测绘项目\Part03_09\Part03_09\bin\Debug\Part03_09.exe
+D:\测绘项目\Part03_09\Part03_09\bin\Debug\Part03_09.pdb
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.csprojAssemblyReference.cache
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.Form1.resources
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.Properties.Resources.resources
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.csproj.GenerateResource.cache
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.csproj.CoreCompileInputs.cache
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.exe
+D:\测绘项目\Part03_09\Part03_09\obj\Debug\Part03_09.pdb
